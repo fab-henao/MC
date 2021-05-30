@@ -1,9 +1,0 @@
-setup.py
-MC/Servicios_MC.py
-MC/User_MC.py
-MC/__init__.py
-MC.egg-info/PKG-INFO
-MC.egg-info/SOURCES.txt
-MC.egg-info/dependency_links.txt
-MC.egg-info/requires.txt
-MC.egg-info/top_level.txt

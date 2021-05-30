@@ -1,0 +1,10 @@
+README.md
+setup.py
+MC_API/Servicios_MC.py
+MC_API/User_MC.py
+MC_API/__init__.py
+MC_API.egg-info/PKG-INFO
+MC_API.egg-info/SOURCES.txt
+MC_API.egg-info/dependency_links.txt
+MC_API.egg-info/requires.txt
+MC_API.egg-info/top_level.txt
