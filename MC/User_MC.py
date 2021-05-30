@@ -47,7 +47,8 @@ class MC:
         else:
             print('No se puedo renderizar')
 
-    # # Metodo incompleto, solo carga la skin en su formato base
+
+    # Metodo incompleto, solo carga la skin en su formato base
     # def get_Render_Skin_Oficial(nombre_Usuario):
     #     uuid = MC.get_UUID(nombre_Usuario)
     #     request = requests.get(f'https://sessionserver.mojang.com/session/minecraft/profile/{uuid}')
@@ -56,4 +57,3 @@ class MC:
     #         datos = vec_Datos[0].get('value')
     #         vec_Decodificado = b64decode(datos)
     #         print(vec_Decodificado)
-
