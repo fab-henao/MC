@@ -4,15 +4,15 @@ Repositorio del proyecto en Github: https://github.com/fab-henao/MC.git
 
 ## Importar el modulo
 
-Run `from MC_API.Servicios_MC import Servicios_MCC as MCS`
+`from MC_API.Servicios_MC import Servicios_MCC as MCS`
 
-Run `MCS.services_Check()` No devuelve nada, solo impreme los servicios
+`MCS.services_Check()` No devuelve nada, solo impreme los servicios
 
-Run `from MC_API.User_MC import Servicios_MCC as MCU`
+`from MC_API.User_MC import Servicios_MCC as MCU`
 
-Run `MCU.get_History_Names()` Devuelve un Objeto
+`MCU.get_History_Names()` Devuelve un Objeto
 
-Run `MCU.get_Name_Free()` No devuelve nada, imprime si esta disponible o no el nombre
+`MCU.get_Name_Free()` No devuelve nada, imprime si esta disponible o no el nombre
 
-Run `MCU.get_Render_Skin()` Devuele una respuesta Request
+`MCU.get_Render_Skin()` Devuele una respuesta Request
 
